@@ -1,5 +1,5 @@
 # Set<T>
-> Progetto del corso 'Programmazione C++' del febbraio del 2021 (Università Milano-Bicocca)
+> Progetto del corso 'Programmazione C++' del febbraio del 2022 (Università Milano-Bicocca)
 
 Il progetto richiede la progettazione e realizzazione di una classe che implementa un Set di elementi generici T. Un Set è una collezione di dati che NON può contenere duplicati: es. S={1,6,4,9,7,10,12}.
 
